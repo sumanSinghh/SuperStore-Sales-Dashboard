@@ -1,4 +1,4 @@
-# SuperStore-Sales-Dashboar
+# SuperStore-Sales-Dashboard
 
 This project is an Interactive SuperStore Sales Dashboard developed using Microsoft Power BI to analyze sales performance and generate meaningful business insights from retail data.
 
